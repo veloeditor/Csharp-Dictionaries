@@ -1,0 +1,11 @@
+/Users/i9_editor/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp3.0/dictionaries.csprojAssemblyReference.cache
+/Users/i9_editor/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp3.0/dictionaries.AssemblyInfoInputs.cache
+/Users/i9_editor/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp3.0/dictionaries.AssemblyInfo.cs
+/Users/i9_editor/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp3.0/dictionaries
+/Users/i9_editor/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp3.0/dictionaries.deps.json
+/Users/i9_editor/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp3.0/dictionaries.runtimeconfig.json
+/Users/i9_editor/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp3.0/dictionaries.runtimeconfig.dev.json
+/Users/i9_editor/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp3.0/dictionaries.dll
+/Users/i9_editor/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp3.0/dictionaries.pdb
+/Users/i9_editor/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp3.0/dictionaries.dll
+/Users/i9_editor/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp3.0/dictionaries.pdb
